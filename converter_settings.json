@@ -1,0 +1,13 @@
+{
+    "input_path": "",
+    "output_path": "",
+    "scale": 80,
+    "target_fps": 10,
+    "quality": 80,
+    "sharpen": true,
+    "sharpen_amount": 0.5,
+    "crop_top": 0,
+    "crop_bottom": 0,
+    "crop_left": 0,
+    "crop_right": 0
+}
